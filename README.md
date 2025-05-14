@@ -79,8 +79,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - [customtkinter](https://github.com/TomSchimansky/CustomTkinter) - Modern UI library for tkinter.
-- Python's http.server and socketserver modules for the core functionality
-
 ---
 
 <p align="center">
